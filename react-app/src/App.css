@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+
+.todo-app {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 520px;
+  min-height: 600px;
+  background: #161a2b;
+  text-align: center;
+  margin: 128px auto;
+  border-radius: 10px;
+  padding-bottom: 32px;
+}
+
+h1 {
+  margin: 32px 0;
+  color: #fff;
+  font-size: 48px;
+}
+
+.textbox{
+  margin: 30px auto;
+}
+
+.todo-button {
+  margin: -200px auto;
+  padding: 16px;
+  border: none;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+  outline: none;
+  background: linear-gradient(
+    90deg,
+    rgba(93, 12, 255, 1) 0%,
+    rgba(155, 0, 250, 1) 100%
+  );
+  color: #fff;
+  text-transform: capitalize;
+}
+
+.delete-icon {
+  margin-right: 5px;
+  background: rgb(7, 250, 197);
+}
+
+.table{
+  font-size: 18px;
+  color: aliceblue;
+}
