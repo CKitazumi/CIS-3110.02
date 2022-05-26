@@ -5,3 +5,5 @@
 
 **Deliverable 2**
 # Using the momentum from the first deliverable I applied the methods of writing cookies and therefore creating a user authenticated based page that connects to my html bootstrapped website that allows users to access the site using cookies.
+
+## Unfortunately at a loss of time and unsuccessful last minute debugging I couldn't figure out how to reroute my code to properly save and utilize the cookies. 
